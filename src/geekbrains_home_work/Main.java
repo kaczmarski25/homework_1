@@ -15,7 +15,7 @@ public class Main {
     }
     public static void checkSumSign (){
         int a = 3;
-        int b =-52;
+        int b =-50;
         if (a+b >= 0){
             System.out.println("Сумма положительная");
         } else {
